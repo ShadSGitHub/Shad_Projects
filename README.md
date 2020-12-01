@@ -2,7 +2,7 @@
 
 ## I'm seeking a job a software engineer and developer!
 
-### :computer:  knowledge and Skills
+### :computer:  Programming
 
 <!-- BASIC:START -->
 - [Probablistic data Structure Skip-List ](https://github.com/ShadSGitHub/Shad_Projects/blob/main/SkipList-5%20(2).java)
@@ -10,7 +10,7 @@
  - [Trie Prediction](https://github.com/ShadSGitHub/Shad_Projects/blob/main/TriePrediction%20(4).c)
     Using a library of sentences, the algorithm would predict words to complete sentences using a Trie Tree data structure.
 <!-- BASIC:END -->
-
+### :robot: Machine learning
 <!-- MACHINE LEARNING:START -->
 - [LOCKHEED MARTIN SPONSOREDPROJECTEVERGLADES]
     University of central Florida Senior Design project sponsored by Lockheed Martin Corporation. The project entails the development of multiple reinforcement learning                algorithms. State of the art Algorithms Rainbow, Actor-Critic, and Proximal Policy Optimization where implemented to create an Artificial Intelligence agent to play Lockheed       Martin’s game Ever Glades.
