@@ -25,6 +25,11 @@
 - [IMAGE SEGMENTATION, IMAGE SEGMENTATION USING UNET ARTIFICAL INTELLIGNCE](https://github.com/ShadSGitHub/Shad_Projects/blob/main/unet.py)
     A machine deep learning agent that learns to segment images of cells using UNET architecture, training through 670 images while using Dice Coefficient loss function.
     
+    
+- [GENERATIVE ADVERSARIAL NETWORKS ARTIFICAL INTELLIGENCE](https://github.com/ShadSGitHub/Shad_Projects/blob/main/GenerativeAdversarialNetwork.ipynb)
+    Two Neural Network models work against each to train each other to reach an optimal working solution for image Generation or classification, mostly used for image           
+        generation. One generator and a decriminator (classifier).
+    
 - [DECISION TREE AND RANDOM FOREST](https://github.com/ShadSGitHub/Shad_Projects/blob/main/DecisionTree_RandomForest.ipynb)
     Decision trees and Random Forests are used to try and predict whether or not a company will go bankrupt given a set of financial metrics for that company.
     
