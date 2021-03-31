@@ -28,7 +28,7 @@
 - [DECISION TREE AND RANDOM FOREST](https://github.com/ShadSGitHub/Shad_Projects/blob/main/DecisionTree_RandomForest.ipynb)
     Decision trees and Random Forests are used to try and predict whether or not a company will go bankrupt given a set of financial metrics for that company.
     
-- [K NEIGHBORS CLASSIFIER](https://github.com/ShadSGitHub/Shad_Projects/blob/main/KNeighborsClassifier.ipynb)
+- [K NEAREST NEIGHBORS CLASSIFIER](https://github.com/ShadSGitHub/Shad_Projects/blob/main/KNeighborsClassifier.ipynb)
     Nearest neighbor models are used to try and predict whether or not the quality of wine is good or bad.
     
 - [NAIVE BAYES](https://github.com/ShadSGitHub/Shad_Projects/blob/main/NaiveBayes.ipynb)
