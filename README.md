@@ -42,3 +42,9 @@
 - [LINEAR REGRESSION](https://github.com/ShadSGitHub/Shad_Projects/blob/main/LinearRegression.ipynb)
     linear regression models to try and predict the median value of houses.
 <!-- MACHINE LEARNING:END -->
+
+### :computer: WebApp
+<!-- OOP:START -->
+[COLLEGE EVENT WEB APP](https://github.com/ShadSGitHub/Shad_Projects/tree/main/CollegeEvent)
+    Website built with MERN stack to allow users or students make events for Universities.
+<!-- OOP:END -->
