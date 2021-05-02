@@ -1,0 +1,56 @@
+List of Pages Needed:
+
+Completed:
+		Registration
+			-Select Role (Dropdown)
+			-Gives userID and Password (???)
+			-Go to Login
+		Login
+		-User ID (text)
+		-Password (text)
+		Admin Home Page
+			-Create Event (Go to Create Event Page)
+			-Select University (Dropdown)
+			-Select RSO/s (Dropdown)
+
+Student Home Page
+	-View Events (Go to Events List)
+	-Join RSO (Dropdown)
+	-Select University (Dropdown)
+	-Create RSO (Go to Create RSO page)
+University
+	- name
+	- location
+Create Event Page
+	-Admin or Above
+	-University
+	-RSO
+	-Fields
+		-name
+		-event category
+		-description
+		-time
+		-date
+		-location
+			-map integration
+		-contact
+		-phone
+		-email
+	-Scope(Public, Private, RSO)
+Create RSO
+	-RSO info (text)
+	-5 other UserIDs with same demand (text)
+	-Admin (Dropdown)
+Events List
+	-Sort By
+		-Location
+		-University
+	-Event Selected(Go to Event)
+Selected Event
+	-Comment
+		-Edit
+		-Remove
+	-Rate
+		-0-5* store # recieved
+	-Facebook share redirect
+
