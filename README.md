@@ -18,8 +18,8 @@
     University of central Florida Senior Design project sponsored by Lockheed Martin Corporation. The project entails the development of multiple reinforcement learning                algorithms. State of the art Algorithms Rainbow, Actor-Critic, and Proximal Policy Optimization where implemented to create an Artificial Intelligence agent to play Lockheed       Martin’s game Ever Glades.
 - [FASHION MNIST, SUPERVISED LEARING ARTIFICAL INTELLIGNCE](https://github.com/ShadSGitHub/Shad_Projects/tree/main/Fashion_MNIST)
     A machine deep learning agent to learning to classify different type of clothing by observing and learning from 60 thousand labeled images using Pytorch and Keras API
-    - [IMAGE GENERATION, VARIATIONAL AUTOENCODERS](https://github.com/ShadSGitHub/Shad_Projects/tree/main/AutoEncoder)
-    Deep learning model used to generate random images of a training data set. By training to produce images from a normal or Gaussian Distribution. 
+- [IMAGE GENERATION, VARIATIONAL AUTOENCODERS](https://github.com/ShadSGitHub/Shad_Projects/tree/main/AutoEncoder)
+Deep learning model used to generate random images of a training data set. By training to produce images from a normal or Gaussian Distribution. 
 - [IMAGE SEGMENTATION, IMAGE SEGMENTATION USING UNET ARTIFICAL INTELLIGNCE](https://github.com/ShadSGitHub/Shad_Projects/blob/main/unet.py)
     A machine deep learning agent that learns to segment images of cells using UNET architecture, training through 670 images while using Dice Coefficient loss function.
     
