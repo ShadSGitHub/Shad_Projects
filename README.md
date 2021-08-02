@@ -9,8 +9,7 @@
     Skip List is a probabilistic data structure that stores and retrieves data in average runtime of O(Log n) based on probability.
  - [Trie Prediction](https://github.com/ShadSGitHub/Shad_Projects/blob/main/TriePrediction%20(4).c)
     Using a library of sentences, the algorithm would predict words to complete sentences using a Trie Tree data structure.
-- [LSTM AND RECURENT NN, TIME SERIES PREDICTION AND SENTIMENT ANALYSIS](https://github.com/ShadSGitHub/Shad_Projects/tree/main/Recurrent%20Neural%20Network)
-    Deep learning models using a simple Recurrent Neural Network to predict how many passengers to have given data of previous months. Sentiment Analysis model using LSTM or         Long Short Term Memory to predict positive or negative reviews from IMDB dataset all with Keras API.
+
 <!-- BASIC:END -->
 ### :robot: Deep learning :robot:
 <!-- DEEP LEARNING:START -->
@@ -32,6 +31,9 @@ Deep learning model used to generate random images of a training data set. By tr
     Classify Diseases with X-Ray images of infected lungs using machine vision learning of Convolutional neural netowork to classify with the disease was cause by virus, bacteria, pneumonia or healthy; reaching 84 percentt accuracy.  
  - [CLASSIFY ETHNICITY OR RACES](https://github.com/ShadSGitHub/Shad_Projects/blob/main/EthRec.ipynb)
     Classify people ethnicity from their profile pictures using Convolutional neural network to classify whether the person is either white, black, asian, indian, hispanic; reaching 80 percent accuracy.
+    
+- [LSTM AND RECURENT NN, TIME SERIES PREDICTION AND SENTIMENT ANALYSIS](https://github.com/ShadSGitHub/Shad_Projects/tree/main/Recurrent%20Neural%20Network)
+Deep learning models using a simple Recurrent Neural Network to predict how many passengers to have given data of previous months. Sentiment Analysis model using LSTM or         Long Short Term Memory to predict positive or negative reviews from IMDB dataset all with Keras API.
         
 <!-- DEEP LEARNING:END -->
 
